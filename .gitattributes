@@ -1,0 +1,2 @@
+public/videos/earth-bg.mp4 filter=lfs diff=lfs merge=lfs -text
+public/videos/earth-neon.mp4 filter=lfs diff=lfs merge=lfs -text
